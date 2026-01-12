@@ -40,7 +40,7 @@ function Highlights () {
             <li className="">CPU 20% mais rápida</li>
             <li>GPU 25% mais eficiente</li>
             <li>Neural Engine com 16 núcleos</li>
-            <li>Ray tracyng acelerado</li>
+            <li>Ray tracyng acelerado!</li>
           </ul>
         </div>
 
