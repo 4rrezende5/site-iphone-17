@@ -33,7 +33,7 @@ function Highlights () {
 
         <div className="bg-gray-900 rounded-3xl p-12 mb-16" id="performance">
           <h3 className="text-4xl font-medium mb-6 text-gradient">A18</h3>
-          <p>O chip mais poderoso em um smartphone</p>
+          <p>O chip mais poderoso em um smartphone já criado</p>
           <img className="w-full rounded-2xl mb-4" src="./public/img/chip-a18-pro.jpg" alt="chip A18"  />
 
           <ul className="space-y-3 text-gray-300">

@@ -6,7 +6,6 @@ function Hero() {
       <div className='absolute top-18 bottom-0 left-0 right-0 z-0'>
   
         <img src="./public/img/hero.jpg" alt="" className='w-full h-full object-cover opacity-90'/>
-        <h2>Testes</h2>
 
         {/* Efeito sombreado sobre a imagem principal */}
         <div className='absolute inset-0 bg-linear-to-b  from-black/20 via-transparent to-black/90' ></div>
