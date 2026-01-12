@@ -7,9 +7,9 @@ function Colors() {
 
 
   const colors = [
-    {id: 'black', name: 'Titânio Preto', image: '/img/iphone-black.jpg' , colorClass: 'bg-gray-600'},
-    {id: 'silver', name: 'Titânio Natural', image: '/img/iphone-silver.jpg' , colorClass: 'bg-gray-300'},
-    {id: 'orange', name: 'Titânio Laranja', image: '/img/iphone-orange.jpg' , colorClass: 'bg-orange-500'}
+    {id: 'black', name: 'Titânio Preto', image: './public/img/iphone-black.jpg' , colorClass: 'bg-gray-600'},
+    {id: 'silver', name: 'Titânio Natural', image: './public/img/iphone-silver.jpg' , colorClass: 'bg-gray-300'},
+    {id: 'orange', name: 'Titânio Laranja', image: './public/img/iphone-orange.jpg' , colorClass: 'bg-orange-500'}
   ];
 
   const models = [
