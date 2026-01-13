@@ -37,7 +37,7 @@ function Highlights () {
           <img className="w-full rounded-2xl mb-4" src="./public/img/chip-a18-pro.jpg" alt="chip A18"  />
 
           <ul className="space-y-3 text-gray-300">
-            <li className="">CPU 20% mais rápida</li>
+            <li className="">CPU 20% mais rápida!</li>
             <li>GPU 25% mais eficiente</li>
             <li>Neural Engine com 16 núcleos</li>
             <li>Ray tracyng acelerado!</li>
